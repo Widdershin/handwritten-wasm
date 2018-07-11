@@ -17,6 +17,8 @@ Reading machine generated wasm is not always a fun experience, so if you want to
  * [mdn/webassembly-examples](https://github.com/mdn/webassembly-examples)
  * [dominictarr/quicksort.wasm](https://github.com/dominictarr/quicksort.wasm)
  * [dominictarr/fib.wasm](https://github.com/dominictarr/fib.wasm)
- * [https://github.com/rhmoller/wasm-by-hand](https://github.com/rhmoller/wasm-by-hand)
+ * [rhmoller/wasm-by-hand](https://github.com/rhmoller/wasm-by-hand)
 
 If you know of any others, please add it to the list!
+
+*N.B. Strictly speaking, all of the examples are wast, not wasm, but that somewhat goes without saying when humans are involved.*
