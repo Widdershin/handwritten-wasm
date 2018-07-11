@@ -18,6 +18,9 @@ Reading machine generated Wasm is not always a fun experience, so if you want to
  * [dominictarr/quicksort.wasm](https://github.com/dominictarr/quicksort.wasm)
  * [dominictarr/fib.wasm](https://github.com/dominictarr/fib.wasm)
  * [rhmoller/wasm-by-hand](https://github.com/rhmoller/wasm-by-hand)
+ * [mafintosh/blake2b-wasm](https://github.com/mafintosh/blake2b-wasm)
+ * [guybedford/wasm-intro](https://github.com/guybedford/wasm-intro)
+ * [WebAssembly/wasm-jit-prototype](https://github.com/WebAssembly/wasm-jit-prototype/tree/master/Test/wast) (handwritten echo and tee)
 
 If you know of any others, please add it to the list! I'm especially interested in larger handcrafted Wasm programs, rather than small examples.
 
