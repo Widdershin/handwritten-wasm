@@ -19,6 +19,6 @@ Reading machine generated wasm is not always a fun experience, so if you want to
  * [dominictarr/fib.wasm](https://github.com/dominictarr/fib.wasm)
  * [rhmoller/wasm-by-hand](https://github.com/rhmoller/wasm-by-hand)
 
-If you know of any others, please add it to the list!
+If you know of any others, please add it to the list! I'm especially interested in larger handcraft wasm programs, rather than small examples.
 
 *N.B. Strictly speaking, all of the examples are wast, not wasm, but that somewhat goes without saying when humans are involved.*
