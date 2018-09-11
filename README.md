@@ -21,6 +21,7 @@ Reading machine generated Wasm is not always a fun experience, so if you want to
  * [mafintosh/blake2b-wasm](https://github.com/mafintosh/blake2b-wasm)
  * [guybedford/wasm-intro](https://github.com/guybedford/wasm-intro)
  * [WebAssembly/wasm-jit-prototype](https://github.com/WebAssembly/wasm-jit-prototype/tree/master/Test/wast) (handwritten echo and tee)
+ * [jungomi/xxhash-wasm](https://github.com/jungomi/xxhash-wasm)
 
 If you know of any others, please add it to the list! I'm especially interested in larger handcrafted Wasm programs, rather than small examples.
 
