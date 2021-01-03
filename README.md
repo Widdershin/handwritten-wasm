@@ -23,6 +23,8 @@ Reading machine generated Wasm is not always a fun experience, so if you want to
  * [WebAssembly/wasm-jit-prototype](https://github.com/WebAssembly/wasm-jit-prototype/tree/master/Test/wast) (handwritten echo and tee)
  * [jungomi/xxhash-wasm](https://github.com/jungomi/xxhash-wasm)
  * [blog.scottlogic.com/2018/04/26/webassembly-by-hand.html](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html) (Conway's game of life)
+ * [LingDong-/wasm-fun](https://github.com/LingDong-/wasm-fun)
+ * [binji/raw-wasm](https://github.com/binji/raw-wasm)
 
 If you know of any others, please add it to the list! I'm especially interested in larger handcrafted Wasm programs, rather than small examples.
 
